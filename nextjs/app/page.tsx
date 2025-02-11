@@ -42,7 +42,7 @@ const Home = () => {
           <h2 className="text-xl font-bold">Optilex</h2>
           
           <button
-            onClick={() => window.open("https://t.me/optilex", "_blank")}
+            onClick={() => window.open("https://t.me/optilexgroup", "_blank")}
             className="btn btn-primary text-black mt-4"
           >
             Join Telegram
