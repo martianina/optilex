@@ -117,7 +117,7 @@ export const Header = () => {
           </div>
           <div className="flex flex-col">
             <span className="font-bold leading-tight">OPTILEX</span>
-            <span className="text-xs">Legal Services Optimized for Web3 Platforms</span>
+            <span className="text-xs">(code)+(law)</span>
           </div>
         </Link>
         <ul className="hidden xl:flex xl:flex-nowrap menu menu-horizontal px-1 gap-2">
