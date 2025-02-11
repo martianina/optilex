@@ -11,7 +11,7 @@ const Home = () => {
         <div className="text-center">
           <h1 className="text-2xl mb-2">Optilex</h1>
           <h2 className="text-4xl font-bold">(code)+(law)</h2>
-          <p className="text-lg mt-2">Seamless legaltech for blockchain projects.</p>
+          <p className="text-lg mt-2">Seamless legaltech for decentralized projects.</p>
         </div>
 
         {/* Short Value Prop Section */}
