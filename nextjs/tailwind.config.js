@@ -11,7 +11,7 @@ module.exports = {
         dark: {
           primary: "#FFDD00", // Gold color
           "primary-content": "#FFFFFF", // White text on primary
-          secondary: "#00BFFF", // Very dark navy for secondary elements
+          secondary: "#FFDD00", // Very dark navy for secondary elements
           "secondary-content": "#E6E6E6", // Light grayscale for helper text
           accent: "#FFDD00", // Bright gold accent color
           "accent-content": "#000000", // black text on accent
